@@ -85,7 +85,7 @@ export const HeroSection = () => {
                   setVideoLoaded(true); // Show overlay even if video fails
                 }}
               >
-                <source src="/assets/fishVid.mp4" type="video/mp4" />
+                <source src="/assets/tankVid.mp4" type="video/mp4" />
                 Your browser does not support the video tag.
               </video>
               
